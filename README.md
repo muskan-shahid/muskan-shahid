@@ -8,7 +8,7 @@
     📍 Karachi, Pakistan
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer&center=true&width=500&height=45" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,18 +25,18 @@
 ## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Contribution Graph  
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muskan-shahid&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskan-shahid&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Muskan's GitHub Activity Graph" />
 </div>
 
 ---
@@ -44,15 +44,7 @@
 ## 🔥 Streak Stats  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=muskan-shahid&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 📈 Top Languages  
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muskan-shahid&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-shahid&theme=radical&hide_border=true" alt="Muskan's Streak Stats" />
 </div>
 
 ---
@@ -67,7 +59,9 @@
 ## 📫 Connect With Me  
 
 <div align="center">
-  💼 <a href="https://www.linkedin.com/in/muskan-shahid-073017368">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muskan-shahid-073017368">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
