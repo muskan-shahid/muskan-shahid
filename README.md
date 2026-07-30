@@ -54,8 +54,6 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/muskan-shahid-073017368  
 
-
-
 ---
 
-⭐ *“Always learning, always building.”*
+⭐ *Always learning, always building.*
