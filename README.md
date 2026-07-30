@@ -4,7 +4,9 @@
   <!-- Animated Moving Header Banner -->
   <h1>
     <marquee behavior="scroll" direction="left" scrollamount="6">
-      👋 Hey, I'm Muskan Shahid! 🚀 Aspiring AI & Data Science Developer 📍 Karachi, Pakistan
+      👋 Hey, I'm Muskan Shahid! 
+      🚀 Aspiring AI & Data Science Developer 
+      📍 Karachi, Pakistan
     </marquee>
   </h1>
 
