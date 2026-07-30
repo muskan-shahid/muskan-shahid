@@ -1,18 +1,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muskan-shahid&color=blue" alt="Profile Views" />
 
-  <!-- Animated Moving Header Banner -->
-  <h1>
-    <marquee behavior="scroll" direction="left" scrollamount="6">
-      👋 Hey, I'm Muskan Shahid! 
-      🚀 Aspiring AI & Data Science Developer 
-      📍 Karachi, Pakistan
-    </marquee>
-  </h1>
-
-  <!-- Typewriter Effect Subtitle -->
+  <!-- Animated Header with Line Breaks -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Passionate+about+AI+%26+Data+Science;Exploring+NLP+%26+Machine+Learning;Building+Real-World+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=👋+Hey,+I'm+Muskan+Shahid!;
+      🚀+Aspiring+AI+%26+Data+Science+Developer;
+      📍+Karachi,+Pakistan" alt="Typing Header" />
   </a>
 </div>
 
@@ -29,12 +22,28 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![Muskan's GitHub Stats](https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=muskan-shahid&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats  
+
+![Muskan's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muskan-shahid&theme=radical)
+
+---
+
+## 📈 Top Languages  
+
+![Top Languages](https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=muskan-shahid&layout=compact&theme=radical)
 
 ---
 
@@ -47,11 +56,7 @@
 
 ## 📫 Connect With Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muskan-shahid-073017368">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-shahid-073017368)
 
 ---
 
