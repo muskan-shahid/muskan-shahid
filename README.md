@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muskan-shahid&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=muskan-shahid&show_icons=true&theme=radical)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 📈 Top Languages  
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muskan-shahid&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-shahid&layout=compact&theme=radical)
 
 ---
 
