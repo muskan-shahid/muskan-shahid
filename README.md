@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muskan-shahid&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muskan-shahid&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
@@ -39,20 +39,20 @@
 
 ## 📈 Top Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-shahid&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muskan-shahid&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📂 Featured Project  
 
 ### 🎓 AI Course Recommendation Chatbot  
-🔗 https://github.com/muskan-shahid/ai-course-recommendation-chatbot  
+🔗 [View Project](https://github.com/muskan-shahid/ai-course-recommendation-chatbot)
 
 ---
 
 ## 📫 Connect With Me  
 
-💼 LinkedIn: https://www.linkedin.com/in/muskan-shahid-073017368  
+💼 [LinkedIn](https://www.linkedin.com/in/muskan-shahid-073017368)
 
 ---
 
