@@ -22,6 +22,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muskan-shahid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 📂 Featured Project  
+
+### 🎓 AI Course Recommendation Chatbot  
+🔗 [View Project](https://github.com/muskan-shahid/ai-course-recommendation-chatbot)
+
 ---
 [![](https://komarev.com/ghpvc/?username=muskan-shahid&icon=0&color=0)](https://visitcount.itsvg.in)
 
