@@ -49,20 +49,14 @@ An AI-powered chatbot designed to recommend personalized learning courses based 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-shahid&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="Muskan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-shahid&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=muskan-shahid&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-shahid&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-shahid&theme=dark&hide_border=false&layout=compact)
 
-#### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muskan-shahid&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+![](https://streak-stats.demolab.com/?user=muskan-shahid&theme=dark&hide_border=false)
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muskan-shahid&theme=radical&no-frame=false&no-bg=false)
 ---
 
 ### ✍️ Dev Quote
