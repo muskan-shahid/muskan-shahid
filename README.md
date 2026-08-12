@@ -14,7 +14,7 @@
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskan-shahid&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=muskan-shahid&theme=dark&hide_border=false)
 
 <br/>
 
