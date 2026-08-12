@@ -23,6 +23,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 📂 Featured Project  
+
+### 🎓 AI Course Recommendation Chatbot  
+🔗 [View Project](https://github.com/muskan-shahid/ai-course-recommendation-chatbot)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muskan-shahid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
