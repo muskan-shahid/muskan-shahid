@@ -1,7 +1,12 @@
-# 💫 About Me:
-# 👋 Hi, I'm Muskan Shahid<br><br>## 💫 About Me<br><br>💡 Passionate about **AI, Data Science & Machine Learning** <br><br>📊 Skilled in **SQL, Power BI, Python & Data Analysis** <br><br>🤖 Exploring **NLP, Machine Learning & Generative AI** <br><br>🚀 Building **real-world data-driven projects** <br><br>📈 Turning data into **meaningful insights and solutions**
+# 👋 Hi, I'm Muskan Shahid
 
+## 💫 About Me
 
+💡 Passionate about **AI, Data Science & Machine Learning** <br>
+📊 Skilled in **SQL, Power BI, Python & Data Analysis** <br>
+🤖 Exploring **NLP, Machine Learning & Generative AI** <br>
+🚀 Building **real-world data-driven projects** <br>
+📈 Turning data into **meaningful insights and solutions**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muskan-shahid-073017368) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muskan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muskanshahid9009@gmail.com) 
 
